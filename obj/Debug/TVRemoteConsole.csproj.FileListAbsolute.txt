@@ -1,0 +1,7 @@
+D:\TVRemoteConsole\bin\Debug\TVRemoteConsole.exe.config
+D:\TVRemoteConsole\bin\Debug\TVRemoteConsole.exe
+D:\TVRemoteConsole\bin\Debug\TVRemoteConsole.pdb
+D:\TVRemoteConsole\obj\Debug\TVRemoteConsole.csproj.AssemblyReference.cache
+D:\TVRemoteConsole\obj\Debug\TVRemoteConsole.csproj.CoreCompileInputs.cache
+D:\TVRemoteConsole\obj\Debug\TVRemoteConsole.exe
+D:\TVRemoteConsole\obj\Debug\TVRemoteConsole.pdb
